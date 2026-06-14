@@ -1,6 +1,6 @@
-# Decision Brief Generator — Careem Challenge
+# Decision Brief Generator Careem Challenge
 
-> Turn raw business data into executive summaries and prioritized action recommendations — powered by Groq + LLaMA 3.3 70B.
+> Turn raw business data into executive summaries and prioritized action recommendations powered by Groq + LLaMA 3.3 70B.
 
 Built by **Azaan Nabi Khan** as a submission for the Careem Engineering Challenge.
 
