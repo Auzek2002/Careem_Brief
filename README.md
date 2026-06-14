@@ -171,4 +171,4 @@ careem-brief/
 ## Author
 
 **Azaan Nabi Khan**  
-Submitted for the Careem Engineering Challenge — Decision Brief Generator track.
+Submitted for the Careem Engineering Challenge Decision Brief Generator track.
